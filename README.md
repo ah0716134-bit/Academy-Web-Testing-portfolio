@@ -284,3 +284,6 @@ completed @ jquery.js?ver=3.7.1:3854
 01:27:52.747 complianz.js?ver=4.7.51780780370:651 opt-in
 01:27:52.749 complianz.js?ver=4.7.51780780370:533 fire cmplz_event_functional
 01:27:52.754 mystickymenu.min.js?ver=2.7.4:1 myStickymenu: Entered Sticky Class does not exist, change it in Dashboard / Settings / myStickymenu / Sticky Class. 
+
+### 🌐 Network Traffic (HAR Logs)
+To analyze the full network requests, API responses, and server status codes for this bug, you can download the complete HAR file here: [Download HAR Logs](./academybugs.com.har)
